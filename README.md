@@ -48,5 +48,7 @@
   </a>
   <a href="mailto:shobhitsingh2229@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <a href="https://www.hackerrank.com/profile/shobhitsingh2229">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
