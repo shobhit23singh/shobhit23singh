@@ -31,12 +31,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit23singh&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit23singh&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=✨%20Commit%20Activity%20✨&hide=issues,prs&area=true&line=ff6ec7&point=ffffff&title_color=ff6ec7&color=00eaff&bg_color=0d1117&y_axis_label=Commits%20Count" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit23singh&custom_title=✨%20Commit%20Activity%20✨&hide=issues,prs&area=true&line=ff6ec7&point=ffffff&title_color=ff6ec7&color=00eaff&bg_color=0d1117&y_axis_label=Commits%20Count" />
 </p>
 
 ---
