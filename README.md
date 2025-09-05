@@ -44,7 +44,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/shobhit-kumar-singh-55a49b380/]">
+  <a href="https://www.linkedin.com/in/shobhit-kumar-singh-55a49b380/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shobhitsingh2229@gmail.com">
