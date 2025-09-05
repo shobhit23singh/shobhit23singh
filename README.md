@@ -7,7 +7,6 @@
 
 ## 🎯 About Me  
 
-💡 Learning **Data Analytics & Data Visualization**  
 ⚡ Exploring **Python, C **  
 🚀 Practicing **Python **  
 🏐 Love to play **Football**
