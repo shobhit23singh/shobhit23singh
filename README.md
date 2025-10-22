@@ -43,12 +43,16 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shobhit-kumar-singh-55a49b380/">
+  <a href="https://www.linkedin.com/in/shobhit-kumar-singh-55a49b380/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shobhitsingh2229@gmail.com">
+  <a href="mailto:shobhitsingh2229@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   <a href="https://www.hackerrank.com/profile/shobhitsingh2229">
+  </a>
+  <a href="https://www.hackerrank.com/profile/shobhitsingh2229" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/shobhitsing_01" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
