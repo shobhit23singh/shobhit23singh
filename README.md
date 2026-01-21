@@ -7,8 +7,8 @@
 
 ## 🎯 About Me  
 
-⚡ Exploring **Python, C **  
-🚀 Practicing **Python **  
+⚡ Exploring **Python, C , HTML**  
+🚀 Practicing **Python ,**  
 🏐 Love to play **Football**
 
 <p align="center">
