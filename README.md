@@ -8,7 +8,7 @@
 ## 🎯 About Me  
 
 ⚡ Exploring **Python, C , HTML, CSS, JavaScipt**  
-🚀 Practicing **Python ,**  
+🚀 Practicing **Python **  
 🏐 Love to play **Football**
 
 <p align="center">
