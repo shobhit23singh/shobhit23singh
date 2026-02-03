@@ -7,7 +7,7 @@
 
 ## 🎯 About Me  
 
-⚡ Exploring **Python, C , HTML**  
+⚡ Exploring **Python, C , HTML, CSS, JavaScipt**  
 🚀 Practicing **Python ,**  
 🏐 Love to play **Football**
 
