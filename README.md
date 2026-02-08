@@ -1,7 +1,6 @@
 <h1 align="center">
   🚀 Hi, I'm <span style="color:#00E7FF;">Shobhit Kumar Singh</span>
 </h1>
-<h3 align="center">✨ Software Developer | C | Python| ✨</h3>
 
 ---
 
