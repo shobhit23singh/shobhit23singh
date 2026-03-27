@@ -15,6 +15,10 @@
 </p>
 
 ---
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shobhitsingh2229@gmail.com) 
+
+---
 
 ## 🛠 Tools & Technologies  
 
